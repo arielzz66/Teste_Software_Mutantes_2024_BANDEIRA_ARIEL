@@ -1,0 +1,3 @@
+[submodule "cal_python"]
+	path = cal_python
+	url = https://github.com/stevaoaa/cal_python.git
