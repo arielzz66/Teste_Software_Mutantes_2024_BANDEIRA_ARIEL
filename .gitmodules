@@ -4,3 +4,6 @@
 [submodule "pytest-codeblocks"]
 	path = pytest-codeblocks
 	url = https://github.com/nschloe/pytest-codeblocks
+[submodule "bots"]
+	path = pytest-codeblocks
+	url = https://github.com/Gorialis/jishaku
