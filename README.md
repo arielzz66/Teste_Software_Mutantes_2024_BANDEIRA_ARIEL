@@ -3,6 +3,8 @@
 
 Este repositório contém o projeto de teste de software utilizando mutantes desenvolvido por **Ariel Lima Abade Bandeira** para a atividade do curso de Teste de Software em 2024. O objetivo deste projeto é aplicar técnicas de teste de mutação para avaliar a qualidade do código e a eficácia dos testes automatizados.
 
+O repositorio utilizado para a execução foi esse, localizado em uma pasta de submodulos: https://github.com/Gorialis/jishaku/tree/0c16ddca174726966704a8f12f6e8f0e26528202
+
 
 ## Estrutura do Repositório
 
@@ -74,6 +76,8 @@ São testes de comando de automação associados, como  jsk, jsk hide, jsk show,
 O resultado dos testes de mutação foram exemplificados no arquivo em PDF enviado junto com a atividade e também estão disponíveis no arquivo index.html na pasta `html/cov`.
 
 4) Identificação de Melhorias
+
+O arquivo utilizado para melhorias foi esse: https://github.com/Gorialis/jishaku/blob/0c16ddca174726966704a8f12f6e8f0e26528202/tests/test_paginator.py
 
 Padrão original:
 
