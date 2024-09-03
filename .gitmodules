@@ -1,9 +1,9 @@
 [submodule "cal_python"]
 	path = cal_python
 	url = https://github.com/stevaoaa/cal_python.git
-[submodule "pytest-codeblocks"]
-	path = pytest-codeblocks
-	url = https://github.com/nschloe/pytest-codeblocks
 [submodule "jishaku"]
 	path = jishaku
 	url = https://github.com/Gorialis/jishaku.git
+[submodule "submodulos/jishaku"]
+	path = submodulos/jishaku
+	url = https://github.com/Gorialis/jishaku
