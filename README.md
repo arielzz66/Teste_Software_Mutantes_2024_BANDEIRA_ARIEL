@@ -3,6 +3,8 @@
 
 Este repositório contém o projeto de teste de software utilizando mutantes desenvolvido por **Ariel Lima Abade Bandeira** para a atividade do curso de Teste de Software em 2024. O objetivo deste projeto é aplicar técnicas de teste de mutação para avaliar a qualidade do código e a eficácia dos testes automatizados.
 
+OBS: o repositorio utilizado para realizar essa atividade foi https://github.com/Gorialis/jishaku/tree/0c16ddca174726966704a8f12f6e8f0e26528202 e ele está na pasta "submodulos".
+
 ## Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
